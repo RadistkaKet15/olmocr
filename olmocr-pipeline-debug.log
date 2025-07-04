@@ -1,0 +1,9 @@
+2025-07-02 12:23:05,778 - __main__ - INFO - Got --pdfs argument, going to add to the work queue
+2025-07-02 12:52:38,041 - __main__ - INFO - Got --pdfs argument, going to add to the work queue
+2025-07-02 12:52:38,046 - __main__ - INFO - Loading file at /workspace/img.pdf as PDF document
+2025-07-02 12:52:38,046 - __main__ - INFO - Found 1 total pdf paths to add
+2025-07-02 12:52:38,053 - __main__ - INFO - Calculated items_per_group: 500 based on average pages per PDF: 1.00
+2025-07-02 12:59:21,374 - __main__ - INFO - Got --pdfs argument, going to add to the work queue
+2025-07-02 12:59:21,381 - __main__ - INFO - Loading file at test.png as image document
+2025-07-02 12:59:21,381 - __main__ - INFO - Found 1 total pdf paths to add
+2025-07-02 12:59:21,393 - __main__ - INFO - Calculated items_per_group: 500 based on average pages per PDF: 1.00
